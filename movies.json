@@ -1,0 +1,90 @@
+[
+  {
+    "title": "Inception",
+    "director": "Christopher Nolan",
+    "genre": "Science-fiction",
+    "budget": "$160 million",
+    "collection": "$839 million",
+    "imbdRating": 8.8,
+    "releaseYear": 2010,
+    "synopsis": "A thief (Leonardo DiCaprio) steals people's secrets from their subconscious while they dream.",
+    "image": "https://image.tmdb.org/t/p/original/9gk7adHYeDvHkCSEqAvQNLV5Uge.jpg"
+  },
+  {
+    "title": "Interstellar",
+    "director": "Christopher Nolan",
+    "genre": "Science-fiction",
+    "budget": "$165 million",
+    "collection": "$731 million",
+    "imbdRating": 8.7,
+    "releaseYear": 2014,
+    "synopsis": "With Earth becoming incapable of supporting life, explorers set out to find a new home for humanity.",
+    "image": "http://wallup.net/wp-content/uploads/2016/03/09/305226-Interstellar_movie.jpg"
+  },
+  {
+    "title": "Good Will Hunting",
+    "director": "Gus Van Sant",
+    "genre": "Drama, Romance",
+    "budget": "$10 million",
+    "collection": "$225.9 million",
+    "imbdRating": 8.3,
+    "releaseYear": 1998,
+    "synopsis": "A therapist (Robin Williams) counsels a janitor (Matt Damon) with a genius IQ.",
+    "image": "https://image.tmdb.org/t/p/original/wuI6zBnLI5EuqdKEMBMQrhIbvOA.jpg"
+  },
+  {
+    "title": "Into the Wild",
+    "director": "Sean Penn",
+    "genre": "Adventure",
+    "budget": "$20 million",
+    "collection": "$56.8 million",
+    "imbdRating": 8.1,
+    "releaseYear": 2018,
+    "synopsis": "Christopher McCandless (Emile Hirsch) sheds his possessions and makes an ill-fated trek to Alaska.",
+    "image": "http://blogrope.com/wp-content/uploads/2016/01/Into-the-Wild.jpg"
+  },
+  {
+    "title": "The Shawshank Redemption",
+    "director": "Frank Darabont",
+    "genre": "Drama",
+    "budget": "$25 million",
+    "collection": "$73.3 million",
+    "imbdRating": 9.3,
+    "releaseYear": 1994,
+    "synopsis": "An innocent man (Tim Robbins) goes to a Maine penitentiary for life in 1947.",
+    "image": "https://image.tmdb.org/t/p/original/q6y0Go1tsGEsmtFryDOJo3dEmqu.jpg"
+  },
+  {
+    "title": "Dead Poets Society",
+    "director": "Peter Weir",
+    "genre": "Drama",
+    "budget": "$16.4 million",
+    "collection": "$235.9 million",
+    "imbdRating": 8.1,
+    "releaseYear": 1989,
+    "synopsis": "A prep-school teacher (Robin Williams) in 1959 New England rouses seven of his students with poetry.",
+    "image": "https://tse2.mm.bing.net/th?id=OIP.Fr0KNl8oadVjmuZsyijb4QHaLG&pid=Api&P=0&h=180"
+  },
+  {
+    "title": "Fight Club",
+    "director": "David Fincher",
+    "genre": "Drama",
+    "budget": "$63 million",
+    "collection": "$101.2 million",
+    "imbdRating": 8.8,
+    "releaseYear": 1999,
+    "synopsis": "Two men (Brad Pitt, Edward Norton) create an underground boxing club.",
+    "image": "https://tse2.mm.bing.net/th?id=OIP.34vdQGKvr361NarwJj92lgHaLH&pid=Api&P=0&h=180"
+  },
+  {
+    "title": "The Pursuit of Happyness",
+    "director": "Gabriel Muccino",
+    "genre": "Drama",
+    "budget": "$55 million",
+    "collection": "$307.1 million",
+    "imbdRating": 8.0,
+    "releaseYear": 2008,
+    "synopsis": "A single father (Will Smith) struggles to carve out a better life for himself and his son.",
+    "image": "https://1.bp.blogspot.com/-8o3deutpw7w/W4OfbmZoPyI/AAAAAAAAAXo/ISZBuiBffzkEeVAMBAEsVtf_PDljXziRACLcBGAs/s1600/IMG_20180827_121926_114.jpg"
+  }
+]
